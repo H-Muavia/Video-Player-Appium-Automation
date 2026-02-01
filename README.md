@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Video Player Automation Project
 
 This project is an automation testing framework for a Video Player application, developed using **Java** and **Appium**.  
@@ -39,3 +40,7 @@ This project is integrated with **Jenkins**, enabling:
 The main objective of this project is to demonstrate a robust mobile automation framework using Appium with CI/CD practices, suitable for real-world testing scenarios.
 
 ---
+=======
+# Video-Player-Appium-
+Video Player Automation Framework built using Java, Appium, TestNG, and Page Object Model with CI/CD integration via Jenkins.
+>>>>>>> 7c9f25c274642a3012b57d5726393c629bfb714e
